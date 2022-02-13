@@ -139,7 +139,7 @@ span {
 
 
 .about-info {
-
+  padding-top: 25mm;
   width: 100vw;
   height: 100vh;
   background:#292727;
@@ -192,6 +192,7 @@ span {
 }
 
 .porta-title {
+  padding-top: 5mm;
   width: 100vw;
   height: 100vh;
   background-color: #272626;
